@@ -44,7 +44,7 @@ Scanned virtual machine environments and documented vulnerabilities with remedia
 ## 📬 Contact Me
 
 - 📧 nataly@email.com  
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 💼 [LinkedIn](www.linkedin.com/in/nataly-garcia-santiago-0b20b6282)  
 - 🖥️ [WGU Degree in Progress](https://wgu.edu)
 
 > “Cybersecurity is not just an IT issue — it’s a human one. My mission is to protect both.”  
