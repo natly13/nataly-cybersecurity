@@ -14,5 +14,5 @@ This project demonstrates how I used **Kali Linux** and **Nmap** to scan a vulne
 
 ## 📡 Scan Command
 ```bash
-nmap -A 192.168.56.101
+nmap -A 192.168.56.102
 
