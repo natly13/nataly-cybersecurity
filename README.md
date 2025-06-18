@@ -23,7 +23,6 @@
 
 ## 📚 Education & Certifications
 - 🎓 B.S. in Cybersecurity & Information Assurance – WGU (In Progress)
-- 📜 Google Cybersecurity Certificate – Coursera (In Progress)
 - 🖥️ Community College IT Certificate – Completed
 
 ---
@@ -31,7 +30,7 @@
 ---
 
 ## 📫 Contact Me
-- ✉️ Email: [your-email]
+- ✉️ Email: [natalygs2013@gmail.com]
 - 🌐 LinkedIn: [link]
 
 
