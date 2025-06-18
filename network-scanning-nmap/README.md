@@ -1,26 +1,18 @@
-# 🔍 Network Scanning and Enumeration with Nmap
+# 🔍 Network Scanning with Nmap
 
-## 📝 Project Summary
-In this project, I used **Nmap** to scan and enumerate a target machine running in my virtual lab. This is a common task for both cybersecurity defenders and ethical hackers to identify open ports, services, and potential vulnerabilities.
-
----
-
-## 🧰 Tools Used
-- 🧪 **Kali Linux** (in VirtualBox)
-- 🎯 **Metasploitable 2** (as target machine)
-- 📡 **Nmap** (network mapping and scanning tool)
+## 📘 Summary
+This project demonstrates how I used **Kali Linux** and **Nmap** to scan a vulnerable machine (Metasploitable 2) in my virtual lab. The scan helped identify open ports, services, and OS details — all critical for real-world threat detection.
 
 ---
 
-## 🛠️ Steps Taken
+## 🛠 Tools Used
+- Kali Linux
+- Metasploitable 2
+- Nmap
 
-### Step 1: Lab Setup
-- Installed Kali Linux and Metasploitable 2 in VirtualBox.
-- Placed both on **Host-Only Network** so they could talk to each other.
+---
 
-### Step 2: Ping the Target
+## 📡 Scan Command
 ```bash
-ping [Metasploitable IP]
-nmap [target IP]
-nmap -sV [target IP]
-nmap -A [target IP]
+nmap -A 192.168.56.101
+
