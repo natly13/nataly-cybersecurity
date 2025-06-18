@@ -27,8 +27,6 @@
 
 ---
 
----
-
 ## 📫 Contact Me
 - ✉️ Email: [natalygs2013@gmail.com]
 - 🌐 LinkedIn: [link]
