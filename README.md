@@ -22,8 +22,9 @@ I'm passionate about protecting systems, learning how attacks work, and gaining 
 Used Kali Linux to scan Metasploitable 2 and analyze open ports and services in a virtual lab.  
 👉 [View Project](./network-scanning-nmap/README.md)
 
-📊 **Log Analysis in Splunk** *(Coming Soon)*  
-Will analyze log files to detect brute-force attacks and suspicious activity.
+📊 **Log Analysis with Splunk – Brute-Force Detection**  
+Used Splunk to analyze login logs and identify brute-force attack behavior  
+👉 [View Project](./log-analysis-splunk/README.md)
 
 🛡️ **TryHackMe Labs & Writeups** *(Coming Soon)*  
 Learning about common exploits and hands-on hacking labs in a safe environment.
