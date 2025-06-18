@@ -12,6 +12,12 @@ This project demonstrates how I used **Kali Linux** and **Nmap** to scan a vulne
 
 ---
 
+## 🧠 What I Learned
+- How to perform basic Nmap scans
+- The role of open ports in identifying attack surfaces
+
+---
+
 ## 📡 Scan Command
 ```bash
 nmap -A 192.168.56.102
