@@ -4,38 +4,29 @@
 
 ---
 
-## 🔐 Featured Projects
+## 💻 Projects (Coming Soon)
 
-### 🧪 Home Cyber Lab (VirtualBox)
-- Built a home cybersecurity lab using Kali Linux, Metasploitable, Windows Server, and pfSense.
-- Practiced real-world tools like Nmap, Wireshark, Burp Suite, and Metasploit.
-
-### 🎯 TryHackMe & Hack The Box
-- Solved beginner and intermediate-level machines.
-- Learned OSINT, privilege escalation, and web vulnerabilities.
-- [Link to your TryHackMe profile]
-- [Link to your Hack The Box profile]
-
-### 📊 Splunk Log Analysis (SIEM Practice)
-- Analyzed mock logs in Splunk to detect brute-force login attempts and suspicious activity.
-- Used dashboards and alerts to simulate incident response.
+- **Home Cyber Lab**: Building a virtual lab with Kali Linux, Metasploitable, and Windows Server using VirtualBox.
+- **TryHackMe Labs**: Practicing real-world skills like vulnerability scanning, privilege escalation, and log analysis.
+- **SIEM & Log Hunting**: Learning to use Splunk and Security Onion for detecting suspicious behavior.
 
 ---
 
-## 🎓 Education & Certifications
-- 🎓 **B.S. in Cybersecurity & Information Assurance** (In Progress) – WGU
-- 🛡️ **Google Cybersecurity Professional Certificate** (In Progress)
-- 🎖️ Community College IT Certificate
+## 🧠 Skills I'm Building
+- 🔍 Threat Analysis
+- 🖥️ Virtual Machines (Kali, Metasploitable, Windows Server)
+- 🔒 Network Scanning (Nmap, Wireshark)
+- 📊 Log Review (Splunk, ELK)
+- 🐧 Linux & Windows Admin
 
 ---
 
-## 💡 Skills
-- Network Scanning: Nmap, Wireshark
-- Linux & Windows Server Admin
-- Virtualization (VirtualBox)
-- Threat Hunting Basics
-- SIEM Tools: Splunk, Security Onion
-- Vulnerability Scanning
+## 📚 Education & Certifications
+- 🎓 B.S. in Cybersecurity & Information Assurance – WGU (In Progress)
+- 📜 Google Cybersecurity Certificate – Coursera (In Progress)
+- 🖥️ Community College IT Certificate – Completed
+
+---
 
 ---
 
