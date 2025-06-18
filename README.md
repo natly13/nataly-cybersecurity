@@ -1,42 +1,59 @@
-# 💼 Nataly Garcia - Cybersecurity Portfolio
+# 👋 Hi, I’m Nataly Garcia
 
-👋 Hi! I’m a cybersecurity student at WGU, actively building my skills in security analysis, ethical hacking, and system defense. I’m passionate about keeping systems secure and learning how to detect and stop threats in real time.
+🎓 Cybersecurity & Information Assurance student at WGU  
+🔐 Aspiring Security Analyst → Future Penetration Tester  
+💻 Building hands-on skills in my home cybersecurity lab
 
----
-
-## 💻 Projects (Coming Soon)
-
-- **Home Cyber Lab**: Building a virtual lab with Kali Linux, Metasploitable, and Windows Server using VirtualBox.
-- **TryHackMe Labs**: Practicing real-world skills like vulnerability scanning, privilege escalation, and log analysis.
-- **SIEM & Log Hunting**: Learning to use Splunk and Security Onion for detecting suspicious behavior.
-
----
-## 🛡️ Featured Projects
-
-### 🔍 Network Scanning and Enumeration with Nmap
-Learned how to scan a vulnerable machine using Kali Linux and Nmap. Explored open ports and services in a safe lab setup.
-➡️ [View Project](./network-scanning-nmap/README.md)
+I'm passionate about protecting systems, learning how attacks work, and gaining real-world experience through labs, scans, and analysis. This portfolio highlights my journey and projects as I grow in the cybersecurity field.
 
 ---
 
-## 🧠 Skills I'm Building
-- 🔍 Threat Analysis
-- 🖥️ Virtual Machines (Kali, Metasploitable, Windows Server)
-- 🔒 Network Scanning (Nmap, Wireshark)
-- 📊 Log Review (Splunk, ELK)
-- 🐧 Linux & Windows Admin
+## 🚧 Currently Working On
+- Learning tools like Nmap, Metasploit, and Splunk
+- Building a virtual cybersecurity lab using Kali Linux and Metasploitable 2
+- Practicing vulnerability scanning and log analysis
+- Growing my red team and blue team skills
+
+---
+
+## 💼 Featured Projects
+
+🔍 **Network Scanning with Nmap**  
+Used Kali Linux to scan Metasploitable 2 and analyze open ports and services in a virtual lab.  
+👉 [View Project](./network-scanning-nmap/README.md)
+
+📊 **Log Analysis in Splunk** *(Coming Soon)*  
+Will analyze log files to detect brute-force attacks and suspicious activity.
+
+🛡️ **TryHackMe Labs & Writeups** *(Coming Soon)*  
+Learning about common exploits and hands-on hacking labs in a safe environment.
+
+---
+
+## 🧠 Skills
+- 🕵️ Network Scanning: Nmap, Wireshark
+- 🐧 OS & Services: Kali Linux, Metasploitable 2, Windows 10/Server
+- 💻 Virtualization: VirtualBox
+- 🔒 Vulnerability Analysis: TryHackMe, CVE Research
+- 📊 Log Monitoring (SIEM): Splunk, Security Onion *(in progress)*
+- 🛡️ Blue Team & Red Team Basics
 
 ---
 
 ## 📚 Education & Certifications
-- 🎓 B.S. in Cybersecurity & Information Assurance – WGU (In Progress)
-- 🖥️ Community College IT Certificate – Completed
+- 🎓 B.S. Cybersecurity & Information Assurance — WGU *(in progress)*
+- 🧾 Certificate in Advanced Cybersecurity — McDowell Technical Community College
 
 ---
 
 ## 📫 Contact Me
-- ✉️ Email: [natalygs2013@gmail.com]
-- 🌐 LinkedIn: [link]
+- ✉️ Email: [your.email@example.com]
+- 💼 LinkedIn: [Nataly Garcia](https://www.linkedin.com/in/nataly-garcia-santiago-0b20b6282)
+
+---
+
+> 💬 Always open to internships, entry-level roles, and mentorship opportunities in cybersecurity!
+
 
 
 > “Cybersecurity is not just an IT issue — it’s a human one. My mission is to protect both.”  
