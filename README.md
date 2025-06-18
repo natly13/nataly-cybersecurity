@@ -11,6 +11,13 @@
 - **SIEM & Log Hunting**: Learning to use Splunk and Security Onion for detecting suspicious behavior.
 
 ---
+## 🛡️ Featured Projects
+
+### 🔍 Network Scanning and Enumeration with Nmap
+Learned how to scan a vulnerable machine using Kali Linux and Nmap. Explored open ports and services in a safe lab setup.
+➡️ [View Project](./network-scanning-nmap/README.md)
+
+---
 
 ## 🧠 Skills I'm Building
 - 🔍 Threat Analysis
