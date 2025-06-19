@@ -48,7 +48,7 @@ Learning about common exploits and hands-on hacking labs in a safe environment.
 ---
 
 ## 📫 Contact Me
-- ✉️ Email: [your.email@example.com]
+- ✉️ Email: [natalygs2013@gmail.com]
 - 💼 LinkedIn: [Nataly Garcia](https://www.linkedin.com/in/nataly-garcia-santiago-0b20b6282)
 
 ---
